@@ -1,0 +1,14 @@
+G:\YandexDisk\GB\IntroProgrammingLanguages\Lesson\Lesson_1\Task_1\bin\Debug\net8.0\Task_1.exe
+G:\YandexDisk\GB\IntroProgrammingLanguages\Lesson\Lesson_1\Task_1\bin\Debug\net8.0\Task_1.deps.json
+G:\YandexDisk\GB\IntroProgrammingLanguages\Lesson\Lesson_1\Task_1\bin\Debug\net8.0\Task_1.runtimeconfig.json
+G:\YandexDisk\GB\IntroProgrammingLanguages\Lesson\Lesson_1\Task_1\bin\Debug\net8.0\Task_1.dll
+G:\YandexDisk\GB\IntroProgrammingLanguages\Lesson\Lesson_1\Task_1\bin\Debug\net8.0\Task_1.pdb
+G:\YandexDisk\GB\IntroProgrammingLanguages\Lesson\Lesson_1\Task_1\obj\Debug\net8.0\Task_1.GeneratedMSBuildEditorConfig.editorconfig
+G:\YandexDisk\GB\IntroProgrammingLanguages\Lesson\Lesson_1\Task_1\obj\Debug\net8.0\Task_1.AssemblyInfoInputs.cache
+G:\YandexDisk\GB\IntroProgrammingLanguages\Lesson\Lesson_1\Task_1\obj\Debug\net8.0\Task_1.AssemblyInfo.cs
+G:\YandexDisk\GB\IntroProgrammingLanguages\Lesson\Lesson_1\Task_1\obj\Debug\net8.0\Task_1.csproj.CoreCompileInputs.cache
+G:\YandexDisk\GB\IntroProgrammingLanguages\Lesson\Lesson_1\Task_1\obj\Debug\net8.0\Task_1.dll
+G:\YandexDisk\GB\IntroProgrammingLanguages\Lesson\Lesson_1\Task_1\obj\Debug\net8.0\refint\Task_1.dll
+G:\YandexDisk\GB\IntroProgrammingLanguages\Lesson\Lesson_1\Task_1\obj\Debug\net8.0\Task_1.pdb
+G:\YandexDisk\GB\IntroProgrammingLanguages\Lesson\Lesson_1\Task_1\obj\Debug\net8.0\Task_1.genruntimeconfig.cache
+G:\YandexDisk\GB\IntroProgrammingLanguages\Lesson\Lesson_1\Task_1\obj\Debug\net8.0\ref\Task_1.dll
