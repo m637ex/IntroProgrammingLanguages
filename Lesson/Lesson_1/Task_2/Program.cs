@@ -20,3 +20,10 @@ double product3 = i1 * d1;
 Console.WriteLine(sum);
 Console.WriteLine(sum2);
 Console.WriteLine(sum3);
+
+int quotient = i1 / i2;         // 5 / 6 => 0 !!! т.к. int
+Console.WriteLine(quotient);  
+
+d1 = 6;
+double quotient2 = i1 / d1;
+Console.WriteLine(quotient2);
